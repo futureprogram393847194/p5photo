@@ -1,7 +1,7 @@
 let img;
 let cnv;
 function preload(){
-  img = loadImage(`assets/john.jpg`);
+  img = loadImage(`john.jpg`);
 }
 //only run once
 function setup() {
