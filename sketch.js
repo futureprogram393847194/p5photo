@@ -1,7 +1,7 @@
 let img;
 let cnv;
 function preload(){
-  img = loadImage(`jphn_before.jpeg`);
+  img = loadImage(`16196_robolism_1525140946.jpg`);
 }
 //only run once
 function setup() {
